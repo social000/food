@@ -1,0 +1,95 @@
+body{
+   width:100%;
+   max-width:2000px;
+   margin:0 auto;
+   padding:0;
+   font-family:Arial,sans-serif;
+  }
+  
+  #container{
+   width:100%;
+   max-width:2000px;
+   margin:0 auto;
+   padding:0;
+   height:;
+  }
+  
+  a{text-decoration:none;}
+  
+  
+  #nav{
+  width:100%;
+  max-width:2000px;
+  margin:0 auto;
+  background:#CCCCBE;
+  border-bottom:0px solid black;
+  }#nav #title{
+  position:;
+  top:0;
+  }#nav #title h1{
+  font-family:cursive;
+  padding:0;
+  margin:0;
+  color:whit;
+  }#nav #title h1 svg{
+  font-size:50px;
+  }#nav #image{
+  width:100%;
+  max-width:2000px;
+  margin:0 auto;
+  }#nav #image img{
+  width:250px;
+  display:flex;
+  justify-content:center;
+  margin:auto;
+  
+  }
+  
+  
+  
+  #msg{
+  width:100%;
+  max-width:300px;
+  margin:0 auto;
+  background:#fffff;
+  border:px solid gray;
+  padding:10;
+  }#msg img{
+  width:100%;
+  display:flex;
+  justify-content:center;
+  margin:0 auto;
+  }#msg h2{
+  text-align:center;
+  font-weight:lighter;
+  }#msg p{
+  width:100%;
+  max-width:400px;
+  margin:0 auto;
+  font-size:13px;
+  }#msg p a{
+  color:royalblue;
+  }
+  
+  
+footer{
+width:;
+max-width:2000px;
+margin:0 auto;
+background:#CCCCBE;
+position:relative;
+padding:30;
+
+}footer b{
+ color:white;
+ font-weight:lighter;
+}footer a button{
+ background:none;
+ outline:none;
+ border:0px;
+ position:absolute;
+ right:10;
+ bottom:20;
+}footer a button svg{
+ font-size:35px;
+}

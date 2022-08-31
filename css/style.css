@@ -1,0 +1,245 @@
+body{
+   width:100%;
+   max-width:2000px;
+   margin:0 auto;
+   padding:0;
+   font-family:Arial,sans-serif;
+  }
+  
+  #container{
+   width:100%;
+   max-width:2000px;
+   margin:0 auto;
+   padding:0;
+   height:;
+  }
+  
+  a{text-decoration:none;}
+  
+  
+#nav{
+     width:100%;
+     max-width:2000px;
+     margin:0 auto;
+     background:#CCCCBE;
+     border-bottom:0px solid black;
+     }#nav #title{
+      position:;
+      top:0;
+     }#nav #title h1{
+      font-family:cursive;
+      padding:0;
+      margin:0;
+      color:whit;
+     }#nav #title h1 svg{
+      font-size:50px;
+     }#nav #image{
+      width:100%;
+      max-width:2000px;
+      margin:0 auto;
+     }#nav #image img{
+      width:250px;
+      display:flex;
+      justify-content:center;
+      margin:auto;
+      
+     }
+     
+     
+  #search{
+  width:100%;
+  
+  }#search form{
+  width:300px;
+  position:relative;
+  }#search form input{
+  width:70%;
+  height:30px;
+  border-top-left-radius:5px;
+  border-bottom-left-radius:5px;
+  background:#f1f1f1;
+  border:1px solid #f1f1f1;
+  outline:none;
+  }#search form button{
+  position:absolute;
+  top:0;
+  background:green;
+  border:0px;
+  outline:none;
+  height:30px;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+  }
+  
+#nav-top{
+     padding:10;
+     display:flex;
+     overflow:auto;
+     position:stick;
+     top:0;
+     background:white;
+     box-shaow:0px 0px 5px gray;
+    }#nav-top a{
+     color:black;
+    }#nav-top #list{
+     width:180px;
+     border:0.1px solid gray;
+     display:flex;
+     border-radius:8px;
+     margin:5;
+     background:#f4f4f4;
+    }#nav-top #list img{
+     width:50px;
+     height:50px;
+     border-top-left-radius:8px;
+     border-bottom-left-radius:8px;
+    }#nav-top #list b{
+     margin:15;
+     font-weight:lighter;
+     color:gre;
+    }
+    
+    
+    
+    #notice{
+    width:100%;
+    max-width:2000px;
+    margin:0 auto;
+    background:#1DC2CC;
+    }#notice img{
+    width:50%;
+    display:flex;
+    justify-content:center;
+    margin:auto;
+    border-bottom:0px solid black;
+    }#notice h3{
+    font-weight:normal;
+    text-align:center;
+    padding:0;
+    margin:;
+    }#notice p{
+    padding:0;
+    margin:0;
+    width:;
+    max-width:500px;
+    margin:0 auto;
+    color:white;
+    font-size:13px;
+    text-align:center;
+    font-weight:lighter;
+    padding:20;
+    }#notice p {
+    
+    }
+    
+    
+ #cont1{
+ width:200px;
+ max-width:200px;
+ margin:0 auto;
+ border:0px solid black;
+ margin-top:30;
+ border-radius:10px;
+ box-shadow:0px 0px 5px gray;
+ display:;
+ }#cont1 img{
+ width:200px;
+ height:150px;
+ border-top-right-radius:10px;
+ border-top-left-radius:10px;
+ }#cont1 #info{
+ width:100%;
+ max-width:200px;
+ margin:0 auto;
+ border:0px solid black;
+ }#cont1 #info button{
+ outline:none;
+ border:0px;
+ background:none;
+ display:flex;
+ justify-content:space-between;
+ width:100%;
+ color:gray;
+ }
+ 
+ 
+#cont2{
+     background:#CCCCBE;
+     max-width:2000px;
+     margin:0 auto;
+     padding:20;
+     display:;
+    }#cont2 h3{
+     text-align:center;
+     font-weight:normal;
+    }#cont2 #info{
+      width:100%;
+      max-width:350px;
+      height:100px;
+      margin:0 auto;
+      display:flex;
+      border:0px solid black;
+      box-shadow:0px 0px 5px gray ;
+      border-radius:10px;
+      margin-top:20px; 
+    }#cont2 #info img{
+     width:100px;
+     height:100px;
+     border-top-left-radius:0px;
+     border-bottom-left-radius:0px;
+    }#cont2 #info p{
+     width:100%;
+     max-width:400px;
+     padding:0;
+     margin-top:20;
+     margin-left:10;
+     font-size:13px;
+     color:;
+     font-weight:lighter;
+    }
+    
+    
+    
+    #bottom-nav{
+    width:100%;
+    max-width:200px;
+    margin:0 auto;
+    background:#7F8C8D;
+    display:flex;
+    justify-content:space-between;
+    padding:10;
+    border-radius:50px;
+    position:sticky;
+    bottom:10;
+    border:0.5px solid white;
+    }#bottom-nav a button{
+    background:none;
+    border:0px;
+    outline:none;
+    }#bottom-nav a button svg{
+    font-size:30px;
+    }
+    
+    
+    
+    footer{
+    width:;
+    max-width:2000px;
+    margin:0 auto;
+    background:#CCCCBE;
+    position:relative;
+    padding:30;
+    
+    }footer b{
+    color:white;
+    font-weight:lighter;
+    }footer a button{
+    background:none;
+    outline:none;
+    border:0px;
+    position:absolute;
+    right:10;
+    bottom:20;
+    }footer a button svg{
+    font-size:35px;
+    }
